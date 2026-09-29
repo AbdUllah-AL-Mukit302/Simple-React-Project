@@ -1,0 +1,122 @@
+[
+  {
+    "playerId": 1,
+    "playerName": "Shakib Al Hasan",
+    "playerImage": "https://example.com/images/shakib.png",
+    "origin": "Bangladesh",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Slow Left-Arm Orthodox",
+    "battingStyle": "Left-Handed",
+    "price": 150
+  },
+  {
+    "playerId": 2,
+    "playerName": "Virat Kohli",
+    "playerImage": "https://example.com/images/kohli.png",
+    "origin": "India",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-Arm Medium",
+    "battingStyle": "Right-Handed",
+    "price": 200
+  },
+  {
+    "playerId": 3,
+    "playerName": "Babar Azam",
+    "playerImage": "https://example.com/images/babar.png",
+    "origin": "Pakistan",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-Arm Offbreak",
+    "battingStyle": "Right-Handed",
+    "price": 180
+  },
+  {
+    "playerId": 4,
+    "playerName": "Rashid Khan",
+    "playerImage": "https://example.com/images/rashid.png",
+    "origin": "Afghanistan",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-Arm Legbreak Googly",
+    "battingStyle": "Right-Handed",
+    "price": 170
+  },
+  {
+    "playerId": 5,
+    "playerName": "Ben Stokes",
+    "playerImage": "https://example.com/images/stokes.png",
+    "origin": "England",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Right-Arm Fast-Medium",
+    "battingStyle": "Left-Handed",
+    "price": 190
+  },
+  {
+    "playerId": 6,
+    "playerName": "Jasprit Bumrah",
+    "playerImage": "https://example.com/images/bumrah.png",
+    "origin": "India",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-Arm Fast",
+    "battingStyle": "Right-Handed",
+    "price": 185
+  },
+  {
+    "playerId": 7,
+    "playerName": "Mustafizur Rahman",
+    "playerImage": "https://example.com/images/mustafizur.png",
+    "origin": "Bangladesh",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left-Arm Fast-Medium",
+    "battingStyle": "Left-Handed",
+    "price": 120
+  },
+  {
+    "playerId": 8,
+    "playerName": "Glenn Maxwell",
+    "playerImage": "https://example.com/images/maxwell.png",
+    "origin": "Australia",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Right-Arm Offbreak",
+    "battingStyle": "Right-Handed",
+    "price": 160
+  },
+  {
+    "playerId": 9,
+    "playerName": "Kane Williamson",
+    "playerImage": "https://example.com/images/williamson.png",
+    "origin": "New Zealand",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-Arm Offbreak",
+    "battingStyle": "Right-Handed",
+    "price": 140
+  },
+  {
+    "playerId": 10,
+    "playerName": "Heinrich Klaasen",
+    "playerImage": "https://example.com/images/klaasen.png",
+    "origin": "South Africa",
+    "playerType": "Wicketkeeper-Batter",
+    "bowlingStyle": "Right-Arm Offbreak",
+    "battingStyle": "Right-Handed",
+    "price": 154
+  },
+  {
+    "playerId": 11,
+    "playerName": "Mitchell Starc",
+    "playerImage": "https://example.com/images/starc.png",
+    "origin": "Australia",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left-Arm Fast",
+    "battingStyle": "Left-Handed",
+    "price": 195
+  },
+  {
+    "playerId": 12,
+    "playerName": "Taskin Ahmed",
+    "playerImage": "https://example.com/images/taskin.png",
+    "origin": "Bangladesh",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-Arm Fast",
+    "battingStyle": "Left-Handed",
+    "price": 110
+  }
+]
